@@ -1,4 +1,4 @@
-# UoM-IT-Automation-Workshop
+# Test Automation Workshop 2017 | University of Moratuwa - CSE
 
 The following documentation contains the information about the prerequisites for the Test Automation Workshop and the Step-by-Step Guide to download and setup the prerequisite SDKs (Software Development Kit) and Tools needed to complete the hands-On activities dueing the workshop.
 
